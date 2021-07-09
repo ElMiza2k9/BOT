@@ -1,5 +1,3 @@
 # MizaBot
 
-<hr/>
 
-# XD
