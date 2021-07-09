@@ -1,4 +1,4 @@
-# Hola este es mi bot
+# MizaBot
 
 <hr/>
 
